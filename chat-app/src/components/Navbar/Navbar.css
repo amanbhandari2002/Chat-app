@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    color: #fff;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2f2d52;
+    
+}
+
+.right-comp{
+    display: flex;
+    gap:5px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    
+}
+
+.left-comp{
+    margin-left: 10px;
+}
+.right-comp button{
+    background-color: #5d5b8d;
+    color: #ddddf7;
+    border: none;
+    cursor: pointer;
+
+}

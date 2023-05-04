@@ -1,0 +1,16 @@
+.chat{
+    flex: 3;
+}
+
+.userInfo{
+    height: 50px;
+    background-color: #5d5b8d;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    /* justify-content: center; */
+}
+
+.Username{
+    margin-left: 10px;
+}

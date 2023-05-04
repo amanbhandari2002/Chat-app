@@ -1,0 +1,24 @@
+.search input{
+    width: 100%;
+    height:30px;
+    font-size: 1.1rem;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    border-bottom: 1px solid grey;
+}
+
+.searchForm{
+    overflow: hidden;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.search input:focus{
+    outline: none;
+}
+
+.search input::placeholder{
+    color: #fff;
+}
+
